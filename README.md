@@ -83,8 +83,3 @@ fract-ol/
 └── Makefile
 ```
 
----
-
-## Author
-
-**sel-jari** — 42 Network
